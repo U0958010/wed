@@ -1,37 +1,108 @@
-## Welcome to GitHub Pages
+<html>
+<head>
+<meta charset="UTF-8">
+</head>
+<body>
+<center>
+<div id="head">
+<table width="1000"border="0"cellpadding="0"cellspacing="0">
+<tr>
+<td><img src="title.jpg"width="1000"height="200"></td>
+</tr>
 
-You can use the [editor on GitHub](https://github.com/U0958010/wed/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+<tr>
+<td>國立聯合大學文創系蔡恩亞的網頁</td>
+</tr>
 
-### Markdown
+<tr>
+<td align="left" bgcolor="#ffffff"><a href="index.htm">作品集</a>　＞　
+<a href="index.htm">電繪作品</a>　＞　
+Photoshop作品
+</td>
+</tr>
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+</table>
+</div>
 
-```markdown
-Syntax highlighted code block
+<div id="cont"><br>
+<table width="1000" border="0" cellpadding="0" cellspacing="1" bgcolor="#999999">
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
+<tr>
+<td align="center"bgcolor="#ffffff"colspan="2"><h1>電繪作品</h1></td>
+</tr>
 
-**Bold** and _Italic_ and `Code` text
+<tr valign="top">
+<td bgcolor="#ffffff" width="191"><table width="181">
+<tr><td><a href="1.htm"><img src="https://hss.nuu.edu.tw/var/file/20/1020/plugin/mobile/title/hln_2805_7365018_05613.jpg"></a1></td></tr>
+<tr><td><a href="1.htm"><img src="https://hss.nuu.edu.tw/var/file/20/1020/plugin/mobile/title/hln_2811_1663698_05914.jpg"></a1></td></tr>
+<tr><td><a href="1.htm"><img src="https://hss.nuu.edu.tw/var/file/20/1020/plugin/mobile/title/hln_2812_6598392_06210.jpg"></a1></td></tr>
+</table></td>
 
-[Link](url) and ![Image](src)
-```
+<td bgcolor="#ffffff" width="806"><table width="800">
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
+<td><table>
+<tr>
+<td><img width="145"height="200"src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSyRM4fwnNJSL69B9rc1HqbUd4xvzP9DyNBSQ&usqp=CAU"></td>
+<td><img width="145"height="200"src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSyRM4fwnNJSL69B9rc1HqbUd4xvzP9DyNBSQ&usqp=CAU"></td>
+<td><img width="145"height="200"src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSyRM4fwnNJSL69B9rc1HqbUd4xvzP9DyNBSQ&usqp=CAU"></td>
+<td><img width="145"height="200"src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSyRM4fwnNJSL69B9rc1HqbUd4xvzP9DyNBSQ&usqp=CAU"></td>
+<td><<img width="145"height="200"src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSyRM4fwnNJSL69B9rc1HqbUd4xvzP9DyNBSQ&usqp=CAU"></td>
+</tr>
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/U0958010/wed/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+<tr>
+<td align="center"><a href="1.htm"target="_blank">第一個作品</td>
+<td align="center"><a href="1.htm"target="_blank">第二個作品</td>
+<td align="center"><a href="1.htm"target="_blank">第三個作品</td>
+<td align="center"><a href="1.htm"target="_blank">第四個作品</td>
+<td align="center"><a href="1.htm"target="_blank">第五個作品</td>
+</tr>
+<tr>
+<td><img width="145"height="200"src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSyRM4fwnNJSL69B9rc1HqbUd4xvzP9DyNBSQ&usqp=CAU"></td>
+<td><img width="145"height="200"src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSyRM4fwnNJSL69B9rc1HqbUd4xvzP9DyNBSQ&usqp=CAU"></td>
+<td><img width="145"height="200"src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSyRM4fwnNJSL69B9rc1HqbUd4xvzP9DyNBSQ&usqp=CAU"></td>
+<td><img width="145"height="200"src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSyRM4fwnNJSL69B9rc1HqbUd4xvzP9DyNBSQ&usqp=CAU"></td>
+<td><<img width="145"height="200"src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSyRM4fwnNJSL69B9rc1HqbUd4xvzP9DyNBSQ&usqp=CAU"></td>
+</tr>
 
-### Support or Contact
+<tr>
+<td align="center"><a href="1.htm"target="_blank">第一個作品</td>
+<td align="center"><a href="1.htm"target="_blank">第二個作品</td>
+<td align="center"><a href="1.htm"target="_blank">第三個作品</td>
+<td align="center"><a href="1.htm"target="_blank">第四個作品</td>
+<td align="center"><a href="1.htm"target="_blank">第五個作品</td>
+</tr>
+<tr>
+<td><img width="145"height="200"src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSyRM4fwnNJSL69B9rc1HqbUd4xvzP9DyNBSQ&usqp=CAU"></td>
+<td><img width="145"height="200"src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSyRM4fwnNJSL69B9rc1HqbUd4xvzP9DyNBSQ&usqp=CAU"></td>
+<td><img width="145"height="200"src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSyRM4fwnNJSL69B9rc1HqbUd4xvzP9DyNBSQ&usqp=CAU"></td>
+<td><img width="145"height="200"src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSyRM4fwnNJSL69B9rc1HqbUd4xvzP9DyNBSQ&usqp=CAU"></td>
+<td><<img width="145"height="200"src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSyRM4fwnNJSL69B9rc1HqbUd4xvzP9DyNBSQ&usqp=CAU"></td>
+</tr>
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+<tr>
+<td align="center"><a href="1.htm"target="_blank">第一個作品</td>
+<td align="center"><a href="1.htm"target="_blank">第二個作品</td>
+<td align="center"><a href="1.htm"target="_blank">第三個作品</td>
+<td align="center"><a href="1.htm"target="_blank">第四個作品</td>
+<td align="center"><a href="1.htm"target="_blank">第五個作品</td>
+</tr>
+
+</table>
+<div id="bottom">
+  <table width="1000" border="0" cellpadding="0" cellspacing="1" bgcolor="#999999">
+    <tr>
+      <td align="center" bgcolor="#FFFFFF"><br />
+        &copy版權所有。國立聯合大學文創系。禁止轉貼<br />
+          <br />
+        </a></td>
+    </tr>
+  </table>
+</div>
+
+</div>
+</body>
+</html>
